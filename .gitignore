@@ -158,6 +158,8 @@ dist
 .yarn/install-state.gz
 .pnp.\*
 
+#qoder 
+/arms_cache/
 # wrangler project
 
 .dev.vars*
@@ -165,3 +167,4 @@ dist
 .env*
 !.env.example
 .wrangler/
+

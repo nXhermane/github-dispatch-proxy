@@ -4,6 +4,7 @@
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
+		"deploy:auto": "bash deploy.sh",
 		"dev": "wrangler dev",
 		"start": "wrangler dev",
 		"test": "vitest",
